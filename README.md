@@ -71,3 +71,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 
 **Jan Erik Solem** is a Python enthusiast, former associate professor, and computer vision entrepreneur. He co-founded several computer vision startups, most recently Mapillary, a street imagery computer vision company, and has worked in the tech industry for two decades. Jan Erik is a World Economic Forum technology pioneer and won the Best Nordic Thesis Award 2005-2006 for his dissertation on image analysis and pattern recognition. He is also the author of "Programming Computer Vision with Python" (O'Reilly 2012).
 
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781838822323">https://packt.link/free-ebook/9781838822323 </a> </p>
